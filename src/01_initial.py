@@ -1,1 +1,0 @@
-print("Hello Im started Python CI/CD pipeline with GitHub Actions")
